@@ -4,7 +4,7 @@ This project demonstrates a simple feedforward neural network for time series re
 
 ## Project Structure
 - `basic_nn_regression.ipynb`: Main Jupyter notebook with all code, plots, and analysis.
-- `data/walmart_sales/Walmart_Sales.csv`: Source data file (not included here).
+- `data/walmart_sales/Walmart_Sales.csv`: Source data file (available on [Kaggle Walmart Sales Dataset](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)).
 
 ## Features
 - **Data Exploration**: Visualizes sales trends and seasonality for a selected store.
